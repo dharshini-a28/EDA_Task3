@@ -50,7 +50,6 @@ pip install pandas matplotlib
 - Console summaries: dataset info, null counts, descriptive statistics, return variance/standard deviation
 - Charts: volume trend, daily return distribution, price range trend
 
-<!--
 ## 🖼️ Sample Charts
 <img width="349" height="179" alt="Screenshot 2026-09-12 093052" src="https://github.com/user-attachments/assets/ec17cd87-621e-4fcf-af7a-742cde62d15f" />
 <img width="336" height="185" alt="Screenshot 2026-09-12 093145" src="https://github.com/user-attachments/assets/1b969b4d-96b5-4238-9186-11e3625f5623" />
